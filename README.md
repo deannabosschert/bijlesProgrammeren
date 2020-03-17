@@ -165,6 +165,7 @@ Vraag maar raak :)
 
 - Check ff of je bestanden (html/css/js) goed gelinkt zijn
 - Tikfoutjes komen echt immens vaak voor, ook bij de beste developers
+- Console.logjes zijn amazing om te checken of iets het doet, of juist waar het stukgaat.
 
 
 - Al.je.bronnen.noteren. Gooi ze direct ergens in je mapje, en houd ze bij. Geen tabbladen sluiten tot je die linkjes hebt genoteerd!
